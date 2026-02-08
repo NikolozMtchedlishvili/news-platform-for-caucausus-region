@@ -1,6 +1,4 @@
 # news-platform-for-caucausus-region
-
-# Overview
 This project addresses the lack of a centralized English-language news source for the Southern Caucasus region. Many important regional developments are published only in local languages and across fragmented outlets, making them hard to follow geopolitical and economic developments for audiences such as international investors.
 
 # Using Python and JavaScript, I built an automated system that:
