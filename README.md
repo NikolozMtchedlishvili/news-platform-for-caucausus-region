@@ -36,3 +36,8 @@ Using Python and JavaScript, I built an automated system that:
 
 ## Note !
 - www.caucasusnews.live was the domain of the project. Currently, the domain does not operate anymore. However, Video Walkthough of Project is provided below
+
+## 🎥 Project Walkthrough
+[Watch the video walkthrough on YouTube](https://youtu.be/j5K7ZX18zFc)
+
+
